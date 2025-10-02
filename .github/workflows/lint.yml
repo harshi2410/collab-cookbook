@@ -1,0 +1,9 @@
+name: Lint Markdown
+on: [pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install -g markdownlint-cli
+      - run: markdownlint recipes/**/*.md
