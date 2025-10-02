@@ -1,8 +1,19 @@
+site_name: Collab-Cookbook
+theme: readthedocs
+
 nav:
   - Home: index.md
   - Indian:
     - Paneer Tikka: recipes/indian/paneer-tikka.md
-    ...
+    - Tandoori Chaap: recipes/indian/tandoori-chaap.md
+    - Pav Bhaji: recipes/indian/pav-bhaji.md
+    - Chole Kulche: recipes/indian/chole-kulche.md
+    - Masala Bhat: recipes/indian/masala-bhat.md
   - Desserts:
     - Brownies: recipes/desserts/brownies.md
-    ...
+    - Rasmalai: recipes/desserts/rasmalai.md
+    - Gulab Jamun: recipes/desserts/gulab-jamun.md
+    - Rabdi: recipes/desserts/rabdi.md
+
+plugins:
+  - search
