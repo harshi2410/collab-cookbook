@@ -1,6 +1,6 @@
 # Paneer Tikka
 - **Cuisine:** Indian
-- **Author:** @your-github-username
+- **Author:** @harshi2410
 - **Ingredients:**
   - 200g paneer, cubed
   - 1 tbsp yogurt
