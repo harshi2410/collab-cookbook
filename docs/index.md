@@ -1,28 +1,18 @@
-# Welcome to MkDocs
+# 🍲 Welcome to the Collaborative Cookbook!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-# 🍽️ Welcome to the Collaborative Cookbook!
-
-A community-driven collection of recipes from around the world — built by contributors like you.
+> A community-driven collection of recipes from around the world — built by contributors like **you**.
 
 ## 🌍 Explore Recipes
-- [Indian](#indian)
-- [Desserts](#desserts)
+Browse our growing collection of **Indian classics** and **sweet desserts** — all shared by real people.
 
 ## ✨ Want to Contribute?
+<<<<<<< HEAD
 Add your own recipe via [Pull Request](https://github.com/YOUR-USERNAME/collab-cookbook)!
+=======
+Add your favorite recipe in just a few steps:
+1. Fork the repo
+2. Add your `.md` file
+3. Open a Pull Request
+
+No coding experience? No problem! We guide you every step of the way.
+>>>>>>> feat/beautiful-theme
