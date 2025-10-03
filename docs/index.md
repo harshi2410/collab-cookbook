@@ -26,5 +26,3 @@ A community-driven collection of recipes from around the world — built by cont
 
 ## ✨ Want to Contribute?
 Add your own recipe via [Pull Request](https://github.com/YOUR-USERNAME/collab-cookbook)!
-
-> Made with ❤️ and [MkDocs](https://www.mkdocs.org/)
