@@ -1,18 +1,12 @@
-# 🍲 Welcome to the Collaborative Cookbook!
+# 🍽️ Welcome to the Collaborative Cookbook!
 
-> A community-driven collection of recipes from around the world — built by contributors like **you**.
+A community-driven collection of recipes from around the world — built by contributors like you.
 
 ## 🌍 Explore Recipes
-Browse our growing collection of **Indian classics** and **sweet desserts** — all shared by real people.
+
+- [Indian](#indian)
+- [Desserts](#desserts)
 
 ## ✨ Want to Contribute?
-<<<<<<< HEAD
-Add your own recipe via [Pull Request](https://github.com/YOUR-USERNAME/collab-cookbook)!
-=======
-Add your favorite recipe in just a few steps:
-1. Fork the repo
-2. Add your `.md` file
-3. Open a Pull Request
 
-No coding experience? No problem! We guide you every step of the way.
->>>>>>> feat/beautiful-theme
+Add your own recipe via [Pull Request](https://github.com/harshi2410/collab-cookbook)!

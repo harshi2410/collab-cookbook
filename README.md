@@ -32,5 +32,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 - [Gulab Jamun](recipes/desserts/gulab-jamun.md)
 - [Rabdi](recipes/desserts/rabdi.md)
 
-🌐 **Live Site**: [View Recipes Online](https://harshi2410.github.io/collab-cookbook/)  
+🌐 **Live Site**: [View Recipes Online](https://github.com/harshi2410/collab-cookbook)  
 ✅ All recipes are now live and searchable!
