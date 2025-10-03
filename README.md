@@ -24,6 +24,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 - [Pav Bhaji](recipes/indian/pav-bhaji.md)
 - [Chole Kulche](recipes/indian/chole-kulche.md)
 - [Masala Bhat](recipes/indian/masala-bhat.md)
+- [Chole Bhature](docs/recipes/indian/chole-bhature.md)
 
 ### Desserts
 - [Brownies](recipes/desserts/brownies.md)
