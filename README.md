@@ -19,18 +19,18 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 ## Recipe Index
 
 ### Indian
-- [Paneer Tikka](recipes/indian/paneer-tikka.md)
-- [Tandoori Chaap](recipes/indian/tandoori-chaap.md)
-- [Pav Bhaji](recipes/indian/pav-bhaji.md)
-- [Chole Kulche](recipes/indian/chole-kulche.md)
-- [Masala Bhat](recipes/indian/masala-bhat.md)
+- [Paneer Tikka](docs/recipes/indian/paneer-tikka.md)
+- [Tandoori Chaap](docs/recipes/indian/tandoori-chaap.md)
+- [Pav Bhaji](docs/recipes/indian/pav-bhaji.md)
+- [Chole Kulche](docs/recipes/indian/chole-kulche.md)
+- [Masala Bhat](docs/recipes/indian/masala-bhat.md)
 - [Chole Bhature](docs/recipes/indian/chole-bhature.md)
 
 ### Desserts
-- [Brownies](recipes/desserts/brownies.md)
-- [Rasmalai](recipes/desserts/rasmalai.md)
-- [Gulab Jamun](recipes/desserts/gulab-jamun.md)
-- [Rabdi](recipes/desserts/rabdi.md)
+- [Brownies](docs/recipes/desserts/brownies.md)
+- [Rasmalai](docs/recipes/desserts/rasmalai.md)
+- [Gulab Jamun](docs/recipes/desserts/gulab-jamun.md)
+- [Rabdi](docs/recipes/desserts/rabdi.md)
 
 🌐 **Live Website**: [https://harshi2410.github.io/collab-cookbook/](https://harshi2410.github.io/collab-cookbook/)
 ✅ All recipes are now live and searchable!
